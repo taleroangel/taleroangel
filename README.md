@@ -3,7 +3,8 @@
 - I like 🐀🐁 ratoneo
 - 🧑‍💻 C, C++, Java and Dart programmer
 - ⚡ IoT and Embedded C programming enthusiast
-- 🌱 I’m currently learning JavaScript and Flutter framework
+- 🐧 Linux and Bash scripting fan
+- 🌱 I’m currently learning web development and Flutter
 - 📔 Certified Java SE 11 Professional Developer
 - 🎓 Systems and Networks engineering student
 - 📫 Mail me at angelgotalero@outlook.com
