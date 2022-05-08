@@ -21,11 +21,7 @@
 </table>
 
 <!-- Badges come from (https://github.com/Ileriayo/markdown-badges) -->
-<hr/>
-
 ## Skills
-
-
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,10 +42,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-<!-- Currently learning footer -->
-<hr/>
-
 ## Learning
 I'm currently learning about Web Development (mostly Backend) and a little bit of Mobile App development
 
@@ -60,10 +52,6 @@ I'm currently learning about Web Development (mostly Backend) and a little bit o
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-<!-- Contact me footer -->
-<hr/>
 
 ## Contact me
 - 📫 Mail me at angelgotalero@outlook.com
