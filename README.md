@@ -9,7 +9,7 @@
 		<!-- Brief description -->
 		<td>
 			<ul>
-				<li>🐁 I like 🐀 ratoneo</li>
+				<li> 💜 I like 🐁 ratoneo 🐀</li>
 				<li>🎓 Systems and Networks engineering student</li>
 				<li>⚡ IoT and Embedded programming enthusiast</li>
 				<li>🐧 Linux and ❤️ Open Source</li>
