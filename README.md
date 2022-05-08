@@ -1,11 +1,24 @@
+<!-- Styles -->
+<style>
+	.brief { display: flex; }
+	.brief li { list-style-type: none; }
+</style>
+
 # Hi, i'm Angel 👋
 
-- I like 🐀🐁 ratoneo
-- 🎓 Systems and Networks engineering student
-- ⚡ IoT and Embedded programming enthusiast
-- 🐧 Linux and ❤️ Open Source
-- 📔 [Oracle Certified Java SE 11 Professional Developer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=137A88C45375CDCE9367710DA0AED18567DE9B13A0DF9809B68C77F306520E92)
-- 🧪 Math and Science nerd
+<div class="brief">
+	<!-- Animated GIF -->
+	<img width = 200vh class="animation" src="https://media.giphy.com/media/6mmchNhidG5NlGRj6p/giphy.gif"/>
+	<!-- Brief description -->
+	<ul>
+		<li>🐁 I like 🐀 ratoneo</li>
+		<li>🎓 Systems and Networks engineering student</li>
+		<li>⚡ IoT and Embedded programming enthusiast</li>
+		<li>🐧 Linux and ❤️ Open Source</li>
+		<li>📔 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=137A88C45375CDCE9367710DA0AED18567DE9B13A0DF9809B68C77F306520E92">Oracle Certified Java SE 11 Professional Developer</a></li>
+		<li>🧪 Math and Science nerd</li>
+	</ul>
+</div>
 
 <!-- Badges come from (https://github.com/Ileriayo/markdown-badges) -->
 <hr/>
@@ -30,7 +43,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-### Embedded
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
@@ -56,8 +68,3 @@ I'm currently learning about Web Development (mostly Backend) and a little bit o
 ## Contact me
 - 📫 Mail me at angelgotalero@outlook.com
 - 🧑‍💻 Find me on [LinkedIn](https://www.linkedin.com/in/taleroangel)
-
-<!-- Animated gif footer -->
-<span>
-	<img width = 250vh src="https://media.giphy.com/media/6mmchNhidG5NlGRj6p/giphy.gif"/>
-</span>
