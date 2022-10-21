@@ -1,35 +1,35 @@
 # Hi, i'm Angel 👋
 
-<table border="0" cellspacing="0" cellpadding="0">
-	<tr>
-		<td>
-		<!-- Animated GIF -->
-			<img width = 200vh class="animation" src="https://media.giphy.com/media/6mmchNhidG5NlGRj6p/giphy.gif"/>
-		</td>
-		<!-- Brief description -->
-		<td>
-			<ul>
-				<li> 💜 I like 🐁 ratoneo 🐀</li>
-				<li>🎓 Systems and Networks engineering student</li>
-				<li>⚡ IoT and Embedded programming enthusiast</li>
-				<li>🐧 Linux and ❤️ Open Source</li>
-				<li>📔 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=137A88C45375CDCE9367710DA0AED18567DE9B13A0DF9809B68C77F306520E92">Oracle Certified Java SE 11 Professional Developer</a></li>
-				<li>🧪 Math and Science nerd</li>
-			</ul>
-		</td>
-	</tr>
-</table>
+
+<!-- Animated GIF -->
+<img style="width: 20vw;" class="animation" src="https://media.giphy.com/media/6mmchNhidG5NlGRj6p/giphy.gif"/>
+<!-- Brief description -->
+<ul>
+	<li> 💜 I like 🐁 ratoneo 🐀</li>
+	<li>🎓 Systems Engineering student</li>
+	<li>⚡ IoT and Embedded programming enthusiast</li>
+	<li>🐧 Linux and ❤️ Open Source</li>
+	<li>📔 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=137A88C45375CDCE9367710DA0AED18567DE9B13A0DF9809B68C77F306520E92">Oracle Certified Java SE 11 Professional Developer</a></li>
+	<li>🧪 Math and Science nerd</li>
+</ul>
 
 <!-- Badges come from (https://github.com/Ileriayo/markdown-badges) -->
 ## Skills
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)\
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)\
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frameworks
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)\
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-%23e6792f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCXdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDk1LjEwMyA5NS4xMDMiIGZpbGw9IndoaXRlIj4NCgk8cGF0aCBkPSJNNDcuNTYxLDBDMjUuOTI4LDAsOC4zOSw2LjM5Myw4LjM5LDE0LjI4M3YxMS43MmMwLDcuODkxLDE3LjUzOCwxNC4yODIsMzkuMTcxLDE0LjI4Mg0KCQkJCQkJYzIxLjYzMiwwLDM5LjE3LTYuMzkyLDM5LjE3LTE0LjI4MnYtMTEuNzJDODYuNzMxLDYuMzkzLDY5LjE5MywwLDQ3LjU2MSwweiIgLz4NCgk8cGF0aCBkPSJNNDcuNTYxLDQ3LjExNWMtMjAuNjU0LDAtMzcuNjgyLTUuODMyLTM5LjE3MS0xMy4yMjdjLTAuMDcxLDAuMzUzLDAsMTkuMzU1LDAsMTkuMzU1DQoJCQkJCQljMCw3Ljg5MiwxNy41MzgsMTQuMjgzLDM5LjE3MSwxNC4yODNjMjEuNjMyLDAsMzkuMTctNi4zOTMsMzkuMTctMTQuMjgzYzAsMCwwLjA0NC0xOS4wMDMtMC4wMjYtMTkuMzU1DQoJCQkJCQlDODUuMjE0LDQxLjI4NCw2OC4yMTQsNDcuMTE1LDQ3LjU2MSw0Ny4xMTV6IiAvPg0KCTxwYXRoIGQ9Ik04Ni42OTQsNjEuNDY0Yy0xLjQ4OCw3LjM5MS0xOC40NzksMTMuMjI2LTM5LjEzMywxMy4yMjZTOS44NzUsNjguODU0LDguMzg2LDYxLjQ2NEw4LjM5LDgwLjgyDQoJCQkJYzAsNy44OTEsMTcuNTM4LDE0LjI4MiwzOS4xNzEsMTQuMjgyYzIxLjYzMiwwLDM5LjE3LTYuMzkzLDM5LjE3LTE0LjI4Mkw4Ni42OTQsNjEuNDY0eiIgLz4NCjwvc3ZnPg==)
@@ -42,16 +42,10 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
 ## Learning
 I'm currently learning about Web Development (mostly Backend) and a little bit of Mobile App development
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Android Studio](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
