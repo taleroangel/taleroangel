@@ -1,0 +1,15 @@
+$base-spacing: 0.5em;
+
+$spacing-xs: calc($base-spacing * 0.5);
+$spacing-s: calc($base-spacing * 1);
+$spacing-m: calc($base-spacing * 2);
+$spacing-l: calc($base-spacing * 3);
+$spacing-xl: calc($base-spacing * 4);
+$spacing-xxl: calc($base-spacing * 5);
+
+$fontsize-xs: 0.5rem;
+$fontsize-s: 1rem;
+$fontsize-m: 1.5rem;
+$fontsize-l: 2rem;
+$fontsize-xl: 2.5rem;
+$fontsize-xxl: 3rem;

@@ -1,0 +1,72 @@
+@use '../abstracts' as *;
+
+/* Font Faces */
+
+@font-face {
+	font-family: "Bitsy";
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	src: url(/fonts/bitsy.woff2) format("woff2");
+}
+
+@font-face {
+	font-family: "Bitcount";
+	font-style: normal;
+	font-weight: 100 900;
+	font-stretch: 100%;
+	src: url(/fonts/bitcount.woff2) format("woff2");
+}
+
+@font-face {
+	font-family: "Google Sans Code";
+	font-style: normal;
+	font-weight: 300 800;
+	font-stretch: 100%;
+	src: url(/fonts/google-sans-code.woff2) format("woff2");
+}
+
+/* Font Classes */
+
+.font-base {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.font-title {
+  font-family: "Bitcount", system-ui;
+  text-decoration: none;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+}
+
+.font-symbolic {
+  font-family: "Bitsy";
+}
+
+/* Elements */
+
+* {
+  color: $on-background;
+  @extend .font-base;
+}
+
+h1, h2, h3 {
+  @extend .font-title;
+}
+
+h1 {
+  font-size: $fontsize-xxl;
+}
+
+a {
+  color: $highlight;
+}

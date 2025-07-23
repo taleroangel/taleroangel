@@ -1,0 +1,15 @@
+@use '../base' as *;
+@use '../abstracts' as *;
+
+html {
+  background-color: $background;
+}
+
+body {
+  width: 100%;
+  max-width: 1000px;
+  margin: $spacing-m auto;
+  padding: $spacing-l;
+  background-color: $background;
+  border: 1px solid $primary;
+}
