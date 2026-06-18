@@ -5,7 +5,6 @@
 <img style="width: 20vw;" class="animation" src="https://media.giphy.com/media/6mmchNhidG5NlGRj6p/giphy.gif"/>
 <!-- Brief description -->
 <ul>
-	<li> 💜 I like 🐁 ratoneo 🐀</li>
 	<li>🎓 Systems Engineer</li>
 	<li>⚡ IoT and Embedded programming enthusiast</li>
 	<li>🐧 Linux and ❤️ Open Source</li>
