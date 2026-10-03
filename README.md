@@ -1,4 +1,4 @@
-# Hi, i'm Angel 👋
+# Hi, I'm Angel 👋
 
 
 <!-- Animated GIF -->
