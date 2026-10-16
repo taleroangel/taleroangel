@@ -1,4 +1,5 @@
 # Hi, I'm Angel 👋
+Main git profile at: https://codeberg.org/migun. I only have most old and relevant repositories mirrors here at GitHub
 
 
 <!-- Animated GIF -->
